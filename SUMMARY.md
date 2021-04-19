@@ -12,5 +12,5 @@
 * [周记](文档/week/about_week.md)
     - [20210414-20210418关于XX](文档/week/20210414.md)
 
-* [总目标](文档/targe/my_target.md)
+* [总目标](文档/target/my_target.md)
 
